@@ -3,13 +3,13 @@
 	url = https://github.com/madler/zlib.git
 [submodule "libs/gzip-hpp"]
 	path = libs/gzip-hpp
-	url = https://github.com/NewYaroslav/gzip-hpp.git
+	url = https://github.com/LimiNode/gzip-hpp.git
 [submodule "libs/DataFeedHub"]
 	path = libs/DataFeedHub
-	url = https://github.com/NewYaroslav/DataFeedHub.git
+	url = https://github.com/LimiNode/DataFeedHub.git
 [submodule "libs/time-shield-cpp"]
 	path = libs/time-shield-cpp
-	url = https://github.com/NewYaroslav/time-shield-cpp.git
+	url = https://github.com/LimiNode/time-shield-cpp.git
 [submodule "libs/simdcomp"]
 	path = libs/simdcomp
 	url = https://github.com/fast-pack/simdcomp.git
@@ -39,19 +39,19 @@
 	url = https://github.com/nlohmann/json.git
 [submodule "libs/kurlyk"]
 	path = libs/kurlyk
-	url = https://github.com/NewYaroslav/kurlyk.git
+	url = https://github.com/LimiNode/kurlyk.git
 [submodule "libs/asio"]
 	path = libs/asio
 	url = https://github.com/chriskohlhoff/asio.git
 [submodule "libs/openssl-win64-v3.4.0"]
 	path = libs/openssl-win64-v3.4.0
-	url = https://github.com/NewYaroslav/openssl-win64-v3.4.0.git
+	url = https://github.com/LimiNode/openssl-win64-v3.4.0.git
 [submodule "libs/curl-8.11.0_1-win64-mingw"]
 	path = libs/curl-8.11.0_1-win64-mingw
-	url = https://github.com/NewYaroslav/curl-8.11.0_1-win64-mingw.git
+	url = https://github.com/LimiNode/curl-8.11.0_1-win64-mingw.git
 [submodule "libs/log-it-cpp"]
 	path = libs/log-it-cpp
-	url = https://github.com/NewYaroslav/log-it-cpp.git
+	url = https://github.com/LimiNode/log-it-cpp.git
 [submodule "libs/Simple-WebSocket-Server"]
 	path = libs/Simple-WebSocket-Server
 	url = https://gitlab.com/eidheim/Simple-WebSocket-Server.git
